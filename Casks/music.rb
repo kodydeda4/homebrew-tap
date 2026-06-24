@@ -1,6 +1,6 @@
 cask "music" do
-  version "1.3.2"
-  sha256 "6f95e016fb0d357b6db4e0bc08aa41b73f90317b0fbfe296aa4f2414fca47e1d"
+  version "1.3.3"
+  sha256 "d5bd900bbc50ed5883042c34fe3b0da1daa97aabca1b9f9fc0c062314297280a"
 
   url "https://github.com/kodydeda4/music-player-releases/releases/download/v#{version}/Music.zip",
       verified: "github.com/kodydeda4/music-player-releases/"
