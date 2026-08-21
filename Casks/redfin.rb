@@ -1,6 +1,6 @@
 cask "redfin" do
   version "1.0.0"
-  sha256 "282df7e0d9cf4785a63ae89e20b5a5cfe56057a22a4183c79052b35171d8d19d"
+  sha256 "05c21c7bd48a995290f60988db12151bc8e49d9a113455a9fcd3a0ff2a8085eb"
 
   url "https://github.com/kodydeda4/redfin-releases/releases/download/v#{version}/Redfin.zip",
       verified: "github.com/kodydeda4/redfin-releases/"
